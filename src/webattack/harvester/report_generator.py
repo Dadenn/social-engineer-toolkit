@@ -117,7 +117,7 @@ for line in fileopen:
 
 try:
     #filewrite.close()
-    filewrite2.write(r"</harvester>" + "\n")
+    filewrite2.write(r"</sherlock>" + "\n")
     filewrite2.close()
 except:
     pass
